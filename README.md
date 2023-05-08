@@ -1,2 +1,2 @@
-# __PROJECT_NAME__
-__PROJECT_DESC__
+# general-visual-database
+A database interface to manage and organize data via a Graphical User Interface.
