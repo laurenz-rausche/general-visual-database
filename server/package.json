@@ -1,9 +1,9 @@
 {
-  "name": "__PROJECT_NAME__",
+  "name": "general-visual-database",
   "version": "0.0.1",
-  "description": "__PROJECT_DESC__",
-  "repository": "__PROJECT_REPO__",
-  "author": "__PROJECT_AUTH__",
+  "description": "A database interface to manage and organize data via a Graphical User Interface.",
+  "repository": "git@github.com:laurenz-rausche/general-visual-database.git",
+  "author": "Laurenz Rausche <laurenz@laurenz-rausche.de>",
   "license": "MIT",
   "private": false,
   "main": "dist/index.js",
